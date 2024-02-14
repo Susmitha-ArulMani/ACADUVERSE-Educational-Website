@@ -33,3 +33,6 @@ This repository contains the source code for the ACADUVERSE website, an online e
 2. Make your changes and enhancements.
 3. Submit a pull request detailing your changes for review.
 
+## Live Demo
+https://susmitha-arulmani.github.io/ACADUVERSE-Educational-Website/
+
